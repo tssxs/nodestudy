@@ -1,6 +1,6 @@
 {
   "author": "sxs",
-  "name": "censorify",
+  "name": "censorify_sxs",
   "version": "0.0.1",
   "description": "Censors words out of text",
   "main": "censortext",
